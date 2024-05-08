@@ -691,6 +691,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 ## OUTPUT:
 ![328558368-168e0c24-2797-4f2c-8495-24def2401dab](https://github.com/yogaraj2/Pharma/assets/153482637/eda88bb7-580b-49d5-883c-01c62fa7bf00)
 
+![328558880-86e2b5d7-d7b0-4732-a405-fe300a5cb4e7](https://github.com/yogaraj2/Pharma/assets/153482637/8e72c458-5612-4290-89fe-e3d5378f7bad)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
